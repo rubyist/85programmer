@@ -8306,7 +8306,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <parts>
 <part name="U$1" library="adafruit" deviceset="ARDUINO" device="UNO"/>
 <part name="U1" library="Atmel_By_element14_Batch_1-00" deviceset="ATTINY85-20PU" device=""/>
-<part name="C1" library="rcl" deviceset="CPOL-US" device="E2,5-6E"/>
+<part name="C1" library="rcl" deviceset="CPOL-US" device="E2,5-6E" value="10uF"/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY3" library="supply2" deviceset="GND" device=""/>
