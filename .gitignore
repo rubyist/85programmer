@@ -1,0 +1,3 @@
+schematics/*.b#*
+schematics/*.s#*
+schematics/eagle.epf
